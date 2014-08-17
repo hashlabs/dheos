@@ -1,4 +1,4 @@
-# DHEOS (**D**isable **H**over **E**vents **O**n **S**croll)
+# DHEOS (Disable Hover Events On Scroll)
 
 Simple jQuery plugin to disable hover events while scrolling
 
