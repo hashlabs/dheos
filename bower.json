@@ -1,0 +1,25 @@
+{
+  "name": "dheos",
+  "version": "0.0.1",
+  "authors": [
+    "Orlando Del Aguila <orlando@delagui.la>"
+  ],
+  "description": "jQuery plugin that disables hover events while scrolling",
+  "main": "dheos.js",
+  "keywords": [
+    "hover",
+    "events",
+    "hover",
+    "jquery",
+    "performance"
+  ],
+  "license": "MIT",
+  "homepage": "orlando.delagui.la",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
